@@ -15,7 +15,10 @@ actions:
 
 features:
   - title: 简单易用
-    details: 无需（？）繁琐操作，点击即可使用
+    details: 无需（？）繁琐操作，点击即用
+
+  - title: 界面美观
+    details: 现代化界面，Fluent Design加持
 
   - title: 课表软件联动
     details: 支持在ClassIsland/Class Widgets上显示抽选结果
@@ -25,7 +28,6 @@ features:
 
   - title: 浮窗
     details: 点击浮窗唤起主界面，无需额外操作
-
 
 copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 LHGS-github

@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "./assets/NamePicker.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "NamePickerOrg/NamePickerDocs",
 
   docsDir: "src",
 
