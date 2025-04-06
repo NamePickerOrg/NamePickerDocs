@@ -8,7 +8,7 @@ title: 寻求帮助
 
 或者通过扫描下方二维码：
 
-![qr](assets/qr.jpg)
+![qr](/assets/qr.jpg)
 
 ## 提出Issue
 
