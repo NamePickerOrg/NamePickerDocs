@@ -12,6 +12,8 @@ title: 指南
 
 - [常见问题](quickstart/faq.md)
 
+- [获取帮助](quickstart/gethelp.md)
+
 ### 贡献指南
 
 - [代码贡献](contrib/code.md)
