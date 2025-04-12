@@ -43,7 +43,12 @@ git checkout dev
 git checkout -b <your-branch-name>
 ```
 
-5. 在该分支做出您的贡献
+5. 安装依赖
+```bash
+npm install
+```
+
+6. 在该分支做出您的贡献
 
 ::: tip
 使用以下命令运行开发服务器：
@@ -52,10 +57,10 @@ npm run docs:dev
 ```
 :::
 
-6. 将该分支同步到远程仓库（将\<your-branch-name\>替换为您在第4步设置的分支名字）
+7. 将该分支同步到远程仓库（将\<your-branch-name\>替换为您在第4步设置的分支名字）
 
 ```bash
 git push --set-upstream origin <your-branch-name>
 ```
 
-7. 在GitHub上发起Pull Request，随后等待开发者审核
+8. 在GitHub上发起Pull Request，随后等待开发者审核

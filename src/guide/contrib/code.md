@@ -11,7 +11,7 @@ title: 代码贡献指南
 1. 创建一个NamePicker的复刻（Fork）到您的GitHub账号
 
 ::: tip
-第2-6步都可以使用工具实现（例如VS Code，JetBrains IDE）
+第2-7步都可以使用工具实现（例如VS Code，JetBrains IDE）
 
 具体使用方式请自行搜索
 :::
@@ -47,12 +47,40 @@ git checkout dev
 git checkout -b <your-branch-name>
 ```
 
-5. 在该分支做出您的贡献
+5. 创建虚拟环境并安装依赖
+::: note
+我们假设您已经安装了Python3，如果您没有安装，请自行寻找教程
+:::
 
-6. 将该分支同步到远程仓库（将\<your-branch-name\>替换为您在第4步设置的分支名字）
+::: tabs
+
+@tab Windows
+
+```bash
+python3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+@tab Linux
+
+您可能需要将第一步的指令替换成在您的发行版上安装python3-venv的指令
+
+```bash
+sudo apt install python3-venv
+python3 -m venv .venv
+source ./.venv/bin/activate
+pip install -r requirements.txt
+```
+
+:::
+
+6. 在该分支做出您的贡献
+
+7. 将该分支同步到远程仓库（将\<your-branch-name\>替换为您在第4步设置的分支名字）
 
 ```bash
 git push --set-upstream origin <your-branch-name>
 ```
 
-7. 在GitHub上发起Pull Request，随后等待开发者审核
+8. 在GitHub上发起Pull Request，随后等待开发者审核
