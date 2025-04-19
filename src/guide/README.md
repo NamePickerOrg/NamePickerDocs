@@ -6,13 +6,17 @@ title: 指南
 
 ### 快速开始
 
-- [运行](quickstart/install.md)
+- [下载/运行指南](install.md)
 
-- [配置名单](quickstart/names.md)
+- [配置名单](names.md)
 
-- [常见问题](quickstart/faq.md)
+- [功能上锁](lock.md)
 
-- [获取帮助](quickstart/gethelp.md)
+- [常见问题](faq.md)
+
+- [寻求帮助](gethelp.md)
+
+- [社区规范](chatrules.md)
 
 ### 贡献指南
 

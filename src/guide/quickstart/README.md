@@ -8,6 +8,8 @@ title: 快速开始
 
 - [配置名单](names.md)
 
+- [功能上锁](lock.md)
+
 - [常见问题](faq.md)
 
 - [寻求帮助](gethelp.md)
