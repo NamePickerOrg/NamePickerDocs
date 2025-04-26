@@ -7,10 +7,10 @@ heroText: NamePicker
 tagline: 一款简洁的点名器
 actions:
   - text: 阅读文档
-    link: ./guide/
+    link: ./usage/
     type: primary
 
-  - text: GitHub Repo
+  - text: GitHub仓库
     link: https://github.com/NamePickerOrg/NamePicker
 
 features:

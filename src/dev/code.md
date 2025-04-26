@@ -1,5 +1,6 @@
 ---
 title: 代码贡献指南
+icon: microchip
 ---
 
 ## 为我们做出贡献

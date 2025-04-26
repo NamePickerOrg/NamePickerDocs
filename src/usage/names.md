@@ -1,5 +1,6 @@
 ---
 title: 配置名单
+icon: file
 ---
 
 ## 使用内置名单编辑器
@@ -12,7 +13,7 @@ title: 配置名单
 
 1. 使用Microsoft Excel或WPS Office打开names.csv
 
-2. 进行名单编辑并保存
+2. 进行名单编辑
 
 各列含义：names：学生姓名
 
@@ -24,7 +25,20 @@ no：学号（**必须是纯数字**）
 千万不要改动第一行的内容（表头）
 :::
 
-3. 使用记事本打开names.csv，随后另存为，在“编码”一栏选择UTF-8
+3. 保存编辑
+
+::: tabs
+@ tabs Microsoft Office
+
+1. 选择“另存为”选项，名称保持names.csv不变，在“文件格式”一栏选择“CSV UTF-8（逗号分隔）（*.csv）
+
+@ tabs WPS Office
+
+1. 选择“另存为”选项，名称保持names.csv不变，在“文件格式”一栏选择“CSV （逗号分隔）（*.csv）”
+
+2. 使用记事本打开names.csv，再次另存为，名称保持names.csv不变，在“编码”一栏选择“UTF-8”
+
+:::
 
 ## 手动配置names.csv
 

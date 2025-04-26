@@ -1,5 +1,6 @@
 ---
-title: 插件开发指南详解
+title: 插件开发详解
+icon: cube
 ---
 
 ::: tip

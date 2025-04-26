@@ -1,5 +1,6 @@
 ---
 title: 文档贡献指南
+icon: file-circle-plus
 ---
 
 ## 文档贡献

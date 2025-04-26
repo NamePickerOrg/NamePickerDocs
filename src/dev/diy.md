@@ -1,5 +1,6 @@
 ---
 title: 自制改版
+icon: user
 ---
 
 NamePicker欢迎各位在遵守开源协议的前提下制作符合各自要求的改版

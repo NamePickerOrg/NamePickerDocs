@@ -1,5 +1,6 @@
 ---
 title: 关于开发代号
+icon: code
 ---
 
 ## 开发代号来源
@@ -16,4 +17,4 @@ title: 关于开发代号
 |Sonetto|十四行诗|v1.1.1 Dev-v1.1.2 Dev|
 |Tribbie|缇宝|v2.0.0 Dev-v2.0.0 Release|
 |Cola|可乐（泛指可乐这种饮料，并未指明是可口可乐还是百事可乐还是什么可乐）|早期v2.0.1Dev（尚未发布）|
-|Robin|知更鸟|v2.0.1Dev（尚未发布）|
+|Robin|知更鸟|v2.0.1Dev-v2.0.2d1 Dev|

@@ -1,5 +1,6 @@
 ---
 title: 常见问题
+icon: question
 ---
 ## Q:我是在某处购买到的NamePicker/我在某处购买到了NamePicker的付费服务
 

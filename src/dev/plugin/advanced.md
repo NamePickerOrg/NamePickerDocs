@@ -1,5 +1,6 @@
 ---
 title: 高级操作
+icon: plus
 ---
 
 ## 引入其他第三方库
@@ -22,4 +23,4 @@ from .NamePickerPluginBase impoer load_libs
 load_libs()
 import {您的第三方库}
 ```
-## 🎉大功告成！现在您可以在您的插件中自由使用第三方库了！
+### 🎉大功告成！现在您可以在您的插件中自由使用第三方库了！

@@ -1,5 +1,6 @@
 ---
 title: 下载/运行指南
+icon: download
 ---
 
 ## 下载

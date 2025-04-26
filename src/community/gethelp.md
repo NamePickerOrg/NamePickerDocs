@@ -1,5 +1,6 @@
 ---
 title: 寻求帮助
+icon: question
 ---
 
 ## 加入社区

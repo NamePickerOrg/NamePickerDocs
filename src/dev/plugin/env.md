@@ -1,5 +1,6 @@
 ---
 title: 部署NamePicker插件开发环境
+icon: laptop-code
 ---
 
 在开发插件前，您需要部署一个开发环境
