@@ -3,6 +3,10 @@ title: 部署NamePicker插件开发环境
 icon: laptop-code
 ---
 
+::: warning
+NamePicker正在向[RinUI](https://ui.rinlit.cn/zh)搬迁，以下内容可能不完全适用/完全不适用于NamePicker的较新版本
+:::
+
 在开发插件前，您需要部署一个开发环境
 
 ## 获取NamePicker源码版本
@@ -67,4 +71,10 @@ pip install -r requirements.txt
 
 :::
 
+::: note
+如果您正在部署RinUI重构版本的NamePicker，请加入以下指令：
+```bash
+pip install -i https://test.pypi.org/simple/ RinUI --no-deps
+```
+:::
 🎉🎉🎉恭喜您完成了开发环境的部署，接下来可以阅读[开发第一个插件](1stplugin.md)来开始插件开发之旅

@@ -3,6 +3,10 @@ title: 插件开发详解
 icon: cube
 ---
 
+::: warning
+NamePicker正在向[RinUI](https://ui.rinlit.cn/zh)搬迁，以下内容可能不完全适用/完全不适用于NamePicker的较新版本
+:::
+
 ::: tip
 您可以直接使用`logger`库记录日志
 :::
@@ -83,6 +87,9 @@ class Plugin(PluginBase):
 添加的字段将在上文“传入名单”中的字典中一起传递给插件
 
 ## 设置类
+::: note 过时内容
+这段内容已经过时，仅适用于RinUI重构前的NamePicker插件
+
 在 `main.py`定义一个名为`Settings`，继承了`NamePickerPluginBase.SettingBase`的类即可声明插件设置页，插件设置页将在NamePicker的设置中展示
 
 就像这样：
@@ -104,6 +111,7 @@ class Settings(SettingBase):
 
 具体如何编写请参照[QFluentWidgets文档](https://qfluentwidgets.com/zh/pages)
 
-::: caution
 **不要使用QFluentWidgets提供的配置类存储配置**，会把软件的配置顶掉的
 :::
+
+TODO

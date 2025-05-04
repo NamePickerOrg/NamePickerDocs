@@ -3,6 +3,10 @@ title: 开发您的第一个插件
 icon: star
 ---
 
+::: warning
+NamePicker正在向[RinUI](https://ui.rinlit.cn/zh)搬迁，以下内容可能不完全适用/完全不适用于NamePicker的较新版本
+:::
+
 在部署完环境之后，即可进行插件开发。
 
 ## 创建插件仓库
