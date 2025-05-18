@@ -27,18 +27,15 @@ no：学号（**必须是纯数字**）
 
 3. 保存编辑
 
-::: tabs
-@ tabs Microsoft Office
+Microsoft Office
 
 1. 选择“另存为”选项，名称保持names.csv不变，在“文件格式”一栏选择“CSV UTF-8（逗号分隔）（*.csv）
 
-@ tabs WPS Office
+WPS Office
 
 1. 选择“另存为”选项，名称保持names.csv不变，在“文件格式”一栏选择“CSV （逗号分隔）（*.csv）”
 
 2. 使用记事本打开names.csv，再次另存为，名称保持names.csv不变，在“编码”一栏选择“UTF-8”
-
-:::
 
 ## 手动配置names.csv
 
